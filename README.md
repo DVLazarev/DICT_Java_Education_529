@@ -1,1 +1,1 @@
-# DICT_Java_Education_529
+# DICT_Java_Education_529_Lazarev_Dima
